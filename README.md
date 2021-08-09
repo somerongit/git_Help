@@ -1,4 +1,4 @@
-# Basic Git Commands
+# Basic [Git](http://git-scm.com/book/en/v2) Commands
 At a convenient location on your computer, create a folder named git-test.
 Open this git-test folder in your favorite editor.
 Add a file named index.html to this folder, and add the following HTML code to this file:
