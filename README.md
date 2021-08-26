@@ -1,3 +1,7 @@
+<!--
+    Title: Git Help
+    Author: somerongit (Someron Bakuli) 
+-->
 # Basic [Git](http://git-scm.com/book/en/v2) Commands
 At a convenient location on your computer, create a folder named git-test.
 Open this git-test folder in your favorite editor.
@@ -69,3 +73,7 @@ Then type the following at the prompt:
 You can also use git reset to reset the staging area to the last commit without disturbing the working directory.
 # Revert the Changes
 ## git stash
+<!--
+    Title: Git Help
+    Author: somerongit (Someron Bakuli) 
+-->
