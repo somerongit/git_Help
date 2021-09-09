@@ -90,6 +90,21 @@ You can use this just like any other comment as mention here
 This comment allow add or new files in prv. commit
 ## git commit --amend -m "Update Msg"
 This allow update the prv. commit msg
+
+# Rename the branch 
+## git branch -M newName
+
+# Git Log in God Mode
+## git config --global alias.someronLog "log --graph --oneline --decorate"
+## git someronLog
+ 
+# Sync With currnt Remote Repo
+This set of comments overerite all the local changes which is not commited.
+*** After running this comment you can't retrive the prv. uncommited changes. 
+## git fetch origin
+## git reset --hard origin/master
+## git clean -df
+
 <!--
     Title: Git Help
     Author: somerongit (Someron Bakuli) 
