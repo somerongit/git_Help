@@ -73,6 +73,23 @@ Then type the following at the prompt:
 You can also use git reset to reset the staging area to the last commit without disturbing the working directory.
 # Revert the Changes
 ## git stash
+
+# Add all and Commit in one Comment
+## git commit -am "add all and commit together"
+This comment helps you commit and add all together in one comment
+
+# Update exsiting git comments
+## git config --global alias.someron "commit -am"
+Git config allow us to create a short hand for long comments, using the comment mention above. "someron" is the shorthand of "commit -am" in this example 
+## git someron "add all and commit together" 
+You can use this just like any other comment as mention here
+
+# Update Prv. commit 
+## git add .
+## git commit --amend --no-edit
+This comment allow add or new files in prv. commit
+## git commit --amend -m "Update Msg"
+This allow update the prv. commit msg
 <!--
     Title: Git Help
     Author: somerongit (Someron Bakuli) 
