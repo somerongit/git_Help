@@ -3,7 +3,7 @@
     Author: somerongit (Someron Bakuli) 
 -->
 # Basic [Git](http://git-scm.com/book/en/v2) Commands
-# Architechture [PPT](https://onedrive.live.com/view.aspx?resid=9CA786A045148134!387&ithint=file%2cpptx&authkey=!APNPMmwu5OB4u3Y)
+# Architechture [PPT](https://github.com/somerongit/git_Help/blob/main/Git.pptx)
 At a convenient location on your computer, create a folder named git-test.
 Open this git-test folder in your favorite editor.
 Add a file named index.html to this folder, and add the following HTML code to this file:
